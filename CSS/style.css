@@ -1,0 +1,25 @@
+
+
+body {
+	margin:0 auto;
+	text-align: center;
+	background-color : salmon;
+	font-family: tahoma;
+}
+
+.hide {
+	display: none;
+}
+
+span.more{ 
+	
+	width: 30px;
+	height: 30px;
+	background-color: lightgrey;
+	cursor: pointer;
+
+ }
+
+ul	{
+	padding :0;
+}
